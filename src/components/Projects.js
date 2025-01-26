@@ -1,6 +1,25 @@
 const projects = [
     {
         _id: '1',
+        name: 'LinkedIt',
+        image: 'public/images/linkedit.png',
+        description: '2025 Geese Hacks Project',
+        abstract: 'LinkedIt is a program that allows users to input two simple search terms, returning profiles from LinkedIn that match. This includes the profile name as well as the contact\'s headline, and most importantly, a quick access to their email.',
+        awards: 'lmao',
+        year: '2025',
+        time: 'January 2025',
+        youtube: 'https://youtu.be/2oPLkAotjng',
+        thumbnail: 'https://img.youtube.com/vi/2oPLkAotjng/maxresdefault.jpg',
+        viddes: 'LinkedIt Video Pitch',
+        moreinfo: 'https://devpost.com/software/linkedit?ref_content=user-portfolio&ref_feature=in_progress',
+        linkdesc: 'Geese Hacks Project Submission - Devpost',
+        extra: 'https://github.com/kevinli5371/LinkedIt',
+        extradesc: 'Project Github',
+
+    },
+
+    {
+        _id: '2',
         name: 'OptimEyes',
         image: '/images/technova.png',
         description: '2024 Technova Hacker Project - Sigmas in STEM',
@@ -18,7 +37,7 @@ const projects = [
     },
 
     {
-        _id: '2',
+        _id: '3',
         name: 'Talk to the Hand',
         image: '/images/glove.jpeg',
         description: 
@@ -39,7 +58,7 @@ const projects = [
     },
 
     {
-        _id: '3',
+        _id: '4',
         name: 'Eco-House - Proposal',
         image: '/images/house.jpeg',
         description: 'SHAD Design Team 8 Housing Crisis Solution',
@@ -56,7 +75,7 @@ const projects = [
 
     },
     {
-        _id: '4',
+        _id: '5',
         name: 'A Cakey Situation',
         image: '/images/game.jpeg',
         description: 
