@@ -5,7 +5,7 @@ const projects = [
         image: '/images/linkedit.png',
         description: '2025 Geese Hacks Project',
         abstract: 'LinkedIt is a program that allows users to input two simple search terms, returning profiles from LinkedIn that match. This includes the profile name as well as the contact\'s headline, and most importantly, a quick access to their email.',
-        awards: 'lmao',
+        awards: 'Best Beginner Hack',
         year: '2025',
         time: 'January 2025',
         youtube: 'https://youtu.be/2oPLkAotjng',
